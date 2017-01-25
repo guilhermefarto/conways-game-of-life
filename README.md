@@ -6,7 +6,11 @@
 
 ## Dependencies
 
-All dependencies of this project are native to Processing platform.
+* Drop 1.0.2 by Ramin Soleymani, original sDrop by Andreas Schlegel
+
+> Drop is a processing library that lets you drag and drop objects such as files, images, bookmarks, or text into your processing sketch
+
+All other dependencies of this project are native to Processing platform.
 
 ## Contact / License
 
